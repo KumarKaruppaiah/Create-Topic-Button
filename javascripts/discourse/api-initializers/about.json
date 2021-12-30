@@ -1,0 +1,10 @@
+{
+    "name": "abb-discourse-test-widget",
+    "license_url": "https://github.com/awesomerobot/discourse-tag-sidebars/blob/master/LICENSE",
+    "about_url": "https://github.com/awesomerobot/discourse-tag-sidebars/blob/master/README.md",
+    "component": true,
+    "assets": {
+    },
+    "color_schemes": {
+    }
+  }
