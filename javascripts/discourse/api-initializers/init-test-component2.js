@@ -7,7 +7,11 @@ export default apiInitializer("0.8", (api) => {
     tagName: "div.test-component-widget2",
 
     html() {
-      return h("span.test", "this is test widget2");
+      const result = [];
+      result.push(h("div.sample1","sample 1"));
+      result.push(h("div.sample2","sample 2"));
+      result.push(h("div.sample3","sample 3"));
+      return result;
     },
   });
 });
